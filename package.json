@@ -1,0 +1,14 @@
+{
+  "name": "porchlight_test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "watch": "sass --style=compressed --watch sass/:css/",
+    "serve": "yarn http-server"
+  },
+  "dependencies": {
+    "@harvesthq/porchlight": "^4.0.2",
+    "http-server": "^14.1.0",
+    "sass": "^1.50.0"
+  }
+}

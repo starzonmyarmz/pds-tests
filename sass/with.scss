@@ -1,0 +1,15 @@
+@use "../node_modules/@harvesthq/porchlight/styles" as * with (
+  $fonts-path: "../node_modules/@harvesthq/porchlight/styles/fonts"
+);
+
+html, body {
+  background: $pds-warm-white;
+}
+
+.timer {
+  width: 70px;
+}
+
+li:last-child input[placeholder] {
+  margin-left: -8px;
+}
