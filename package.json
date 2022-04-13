@@ -7,7 +7,7 @@
     "serve": "yarn http-server"
   },
   "dependencies": {
-    "@harvesthq/porchlight": "^4.0.2",
+    "@harvesthq/porchlight": "^4.1.0",
     "http-server": "^14.1.0",
     "sass": "^1.50.0"
   }

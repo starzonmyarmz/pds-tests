@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@harvesthq/porchlight@^4.0.2":
-  version "4.0.2"
-  resolved "https://npm.pkg.github.com/download/@harvesthq/porchlight/4.0.2/95f9de35c2661a693fe1262f4ecadda43a6e747f9db5d2bc01410e7f48f62b12#0b33e9346842df05a0e00379f8fe7495e829578b"
-  integrity sha512-BtBrKcBf3WtT9epmFuFw2WcjY2Jtku8JA897zBcUL1vqGLYBcicFlacwjAI9cI5057B+4udNuw9fxvh5U8Cr9g==
+"@harvesthq/porchlight@^4.1.0":
+  version "4.1.0"
+  resolved "https://npm.pkg.github.com/download/@harvesthq/porchlight/4.1.0/37c589aa1126ffda012e05c9e7e99cff2732fc5dfb81c1220186fd9157dd3757#6bd12103bb13b758694687461f4afebf7bb1396f"
+  integrity sha512-epHjktINVKFJHAvpvZSHvxzFeZAq4DgFVgp+l7ejt6ViUmKCBeT5BVqLLhLk4modI/zf2UhavtLinftg9laWgA==
   dependencies:
     classnames "^2.2.6"
     escape-string-regexp "^4.0.0"
